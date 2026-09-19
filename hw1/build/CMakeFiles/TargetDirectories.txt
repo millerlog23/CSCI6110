@@ -1,0 +1,6 @@
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/benchmark.dir
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/benchmark-naive.dir
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/benchmark-blocked.dir
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/benchmark-blas.dir
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/edit_cache.dir
+/jet/home/lmiller6/homework/hw1/build/CMakeFiles/rebuild_cache.dir
